@@ -1,0 +1,1 @@
+export type FibonacciSequenceGenerator = Generator<number, void, number>;
